@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://connectionsjobs.co.za/sitemap.xml
